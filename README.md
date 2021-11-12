@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [ericknamukolo.github.io](ericknamukolo.github.io)
+- 👨‍💻 All of my projects are available at <a href="https://ericknamukolo.github.io">ericknamukolo.github.io<a>
 
 - 💬 Ask me about **Flutter, Dart, Firebase, JavaScript**
 
