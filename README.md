@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ericknamukolo" alt="ericknamukolo" /></a> </p>
 
-- 🌱 I’m currently learning **Node Js**
+- 🌱 I’m currently learning **Node Js, Express & MongoDB**
 
 - 👨‍💻 All of my projects are available at <a href="https://ericknamukolo.github.io">ericknamukolo.github.io<a>
 
