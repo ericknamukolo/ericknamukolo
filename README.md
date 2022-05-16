@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Erick Namukolo</h1>
 <h3 align="center">A passionate Software Engineer from Lusaka, Zambia</h3>
-<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#29abe0', 'K3K52V1GG');kofiwidget2.draw();</script> 
+<a href='https://ko-fi.com/K3K52V1GG' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi4.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ericknamukolo&label=Profile%20views&color=0e75b6&style=flat" alt="ericknamukolo" /> </p>
 
