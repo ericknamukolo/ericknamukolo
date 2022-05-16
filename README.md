@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Erick Namukolo</h1>
 <h3 align="center">A passionate Software Engineer from Lusaka, Zambia</h3>
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K52V1GG)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ericknamukolo&label=Profile%20views&color=0e75b6&style=flat" alt="ericknamukolo" /> </p>
 
