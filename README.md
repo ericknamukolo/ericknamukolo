@@ -28,6 +28,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ericknamukolo&show_icons=true&locale=en&layout=compact&count_private=true&theme=onedark&hide_border=true" alt="ericknamukolo" /></p>
   <p height="100"></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ericknamukolo&theme=onedark&hide_border=true" alt="ericknamukolo" /></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ericknamukolo&show_icons=true&locale=en&theme=onedark&hide_border=true" alt="ericknamukolo" /></p>
 <p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=ericknamukolo&theme=gotham" alt="ericknamukolo" /></p>
 
   
