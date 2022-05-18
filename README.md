@@ -28,6 +28,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ericknamukolo&show_icons=true&locale=en&layout=compact" alt="ericknamukolo" /></p>
 
-<p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=ericknamukolo" alt="ericknamukolo" /></p>
+<p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=ericknamukolo&theme=gotham" alt="ericknamukolo" /></p>
 
   
