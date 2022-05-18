@@ -31,3 +31,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ericknamukolo&show_icons=true&locale=en" alt="ericknamukolo" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ericknamukolo&" alt="ericknamukolo" /></p>
+  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?ericknamukolo=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
