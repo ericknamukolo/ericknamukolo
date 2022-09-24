@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://i.ibb.co/dGNgBfK/flutter.png" /> </p>
+<p align="center"> <img src="https://i.ibb.co/0tNBGRJ/flutter.png" /> </p>
 <h1 align="center">Hi 👋, I'm Erick Namukolo</h1>
 <h3 align="center">A passionate Software Engineer from Lusaka, Zambia</h3>
 <p align="center"><a href='https://ko-fi.com/K3K52V1GG' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi4.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a></p>
