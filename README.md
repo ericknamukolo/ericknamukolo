@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Node Js, Express & MongoDB**
 
-- 👨‍💻 All of my projects are available at <a target="_blank" href="https://ericknamukolo.com">ericknamukolo.com<a>
+- 👨‍💻 All of my projects are available at <a href="https://ericknamukolo.com" target="_blank" >ericknamukolo.com<a>
 
 - 💬 Ask me about **Flutter, Dart, Firebase, JavaScript**
 
