@@ -31,7 +31,7 @@
   <p height="50"></p>
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ericknamukolo&show_icons=true&locale=en&theme=onedark&hide_border=true&count_private=true" alt="ericknamukolo"/></p>
 
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ericknamukolo&layout=compact&theme=onedark&hide_border=true&show_icons=true" alt="ericknamukolo" /></p>
+ <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ericknamukolo&layout=compact&theme=onedark&hide_border=true&show_icons=true" alt="ericknamukolo" /></p>
 
 
 
