@@ -30,7 +30,10 @@
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ericknamukolo&theme=onedark&hide_border=true&count_private=true" alt="ericknamukolo" /></p>
   <p height="50"></p>
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ericknamukolo&show_icons=true&locale=en&theme=onedark&hide_border=true&count_private=true" alt="ericknamukolo"/></p>
-
+<a href="https://wakatime.com/@3f7c7d17-d9f0-4112-8786-4e83823c459e">
+<p>Total time coded since Apr 27 2022</p>
+<img src="https://wakatime.com/badge/user/3f7c7d17-d9f0-4112-8786-4e83823c459e.svg" alt="Total time coded since Apr 27 2022" />
+  </a>
  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ericknamukolo&layout=compact&theme=onedark&hide_border=true&show_icons=true" alt="ericknamukolo" /></p>
 
 <p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=ericknamukolo&theme=gotham" alt="ericknamukolo" /></p>
