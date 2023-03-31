@@ -36,6 +36,6 @@
   </a>
  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ericknamukolo&layout=compact&theme=onedark&hide_border=true&show_icons=true" alt="ericknamukolo" /></p>
 
-<p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=ericknamukolo&theme=gotham" alt="ericknamukolo" /></p>
+<!-- <p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=ericknamukolo&theme=gotham" alt="ericknamukolo" /></p> -->
 
   
