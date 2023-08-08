@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Erick Namukolo</h1>
 <h3 align="center">A passionate Software Engineer from Lusaka, Zambia</h3>
 <p align="center"><a href='https://ko-fi.com/K3K52V1GG' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi4.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a></p>
-
+<p align="center"> <a href="https://user-badge.committers.top/zambia/ericknamukolo"> <img src= "https://user-badge.committers.top/zambia/ericknamukolo.svg"/> </a></p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ericknamukolo&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="ericknamukolo" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ericknamukolo&theme=onedark&no-frame=true&margin-w=10" alt="ericknamukolo" /></a> </p>
