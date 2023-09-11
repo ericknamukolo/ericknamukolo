@@ -32,6 +32,21 @@
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ericknamukolo&theme=onedark&hide_border=true&count_private=true" alt="ericknamukolo" /></p>
   <p height="50"></p>
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ericknamukolo&show_icons=true&locale=en&theme=onedark&hide_border=true&count_private=true" alt="ericknamukolo"/></p>
+  <br>
+
+<p align="center">
+<a href="https://github.com/iamstan13y/github-readme-activity-graph#gh-light-mode-only">
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamstan13y&theme=react&area=true&hide_border=true#gh-light-mode-only" width="100%">
+</a>
+<a href="https://github.com/iamstan13y/github-readme-activity-graph#gh-dark-mode-only">
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=ericknamukolo&theme=dracula&area=true&hide_border=true#gh-dark-mode-only" width="100%">
+</a>
+</p>
+
+
+
+
+<br/> 
 <a href="https://wakatime.com/@3f7c7d17-d9f0-4112-8786-4e83823c459e">
 <p>Total time coded since Apr 27 2022</p>
 <img src="https://wakatime.com/badge/user/3f7c7d17-d9f0-4112-8786-4e83823c459e.svg" alt="Total time coded since Apr 27 2022" />
