@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://i.ibb.co/0tNBGRJ/flutter.png" /> </p>
+<p align="center"> <img src="https://storage.googleapis.com/codemagic-strapi-media/v4/codemagic_blog_header_How_to_use_firebase_emulator_with_Flutter_1a85b2864b/codemagic_blog_header_How_to_use_firebase_emulator_with_Flutter_1a85b2864b.png" /> </p>
 <h1 align="center">Hi 👋, I'm Erick Namukolo</h1>
 <h3 align="center">A passionate Software Engineer from Lusaka, Zambia</h3>
 <p align="center"><a href='https://ko-fi.com/K3K52V1GG' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi4.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a></p>
