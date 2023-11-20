@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ericknamukolo&theme=onedark&no-frame=true&margin-w=10" alt="ericknamukolo" /></a> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **React**
 
 - 💻 I’m currently working on <a href="https://play.google.com/store/apps/details?id=com.ericknamukolo.confessions" target="_blank" >VENT<a> & <a href="https://play.google.com/store/apps/details?id=com.sleepingpanda.affinity" target="_blank" >AFFINITY<a>
 
