@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at <a href="https://ericknamukolo.com" target="_blank" >ericknamukolo.com<a>
 
-- 💬 Ask me about **Flutter, Dart, Firebase, JavaScript**
+- 💬 Ask me about **Flutter, Dart, Next.js, React.js, Firebase, Typescript, JavaScript**
 
 - 📫 How to reach me **erickmndev@gmail.com**
 
