@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 💻 I’m currently working on <a href="https://play.google.com/store/apps/details?id=com.ericknamukolo.confessions" target="_blank" >VENT<a> & <a href="https://play.google.com/store/apps/details?id=com.sleepingpanda.affinity" target="_blank" >AFFINITY<a>
+- 💻 I’m currently working on <a href="https://pocketshop.cc" target="_blank" >Pocket Shop<a>
 
 - 👨‍💻 All of my projects are available at <a href="https://ericknamukolo.com" target="_blank" >ericknamukolo.com<a>
 
