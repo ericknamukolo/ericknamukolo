@@ -74,7 +74,6 @@ class Erick extends SoftwareEngineer {
 | :--- | :--- | :--- |
 | **[Pocket Shop](https://pocketshop.cc)** | E-commerce platform built for the Zambian market | `Flutter` `Firebase` |
 | **[Portfolio](https://ericknamukolo.com)** | Personal site showcasing all my work | `Next.js` `TypeScript` |
-| **Your next project** | Swap this row out for something you're proud of | `—` |
 
 </div>
 
